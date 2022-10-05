@@ -1,4 +1,5 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
 
     <style name="Theme.Kotlin31Template" parent="Base.Theme.Kotlin31Template">
         <!-- Transparent system bars for edge-to-edge. -->
@@ -6,4 +7,5 @@
         <item name="android:statusBarColor">@android:color/transparent</item>
         <item name="android:windowLightStatusBar">?attr/isLightTheme</item>
     </style>
+
 </resources>
